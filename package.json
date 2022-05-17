@@ -1,0 +1,16 @@
+{
+  "name": "desafio_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "start-dev": "nodemon"
+  },
+  "author": "Giancarlo Nigrinis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
